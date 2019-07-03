@@ -27,7 +27,7 @@ $ cd bootstrap
 
 ## Deployment
 
-The demo page can be found [HERE](https://raw.githack.com/ibrolive/bootstrap/tree/develop)
+The demo page can be found [HERE](https://raw.githack.com/ibrolive/bootstrap/develop/index.html)
 
 ## Designed and developed by
 
